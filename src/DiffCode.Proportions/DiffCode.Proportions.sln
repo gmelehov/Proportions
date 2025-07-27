@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffCode.Proportions", "DiffCode.Proportions\DiffCode.Proportions.csproj", "{6EB1FEE5-1A91-47FC-B619-EFABB628AE54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsApp", "ConsApp\ConsApp.csproj", "{439434AF-44BD-403E-9774-0DC2E9B613A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB1FEE5-1A91-47FC-B619-EFABB628AE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB1FEE5-1A91-47FC-B619-EFABB628AE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB1FEE5-1A91-47FC-B619-EFABB628AE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB1FEE5-1A91-47FC-B619-EFABB628AE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439434AF-44BD-403E-9774-0DC2E9B613A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439434AF-44BD-403E-9774-0DC2E9B613A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439434AF-44BD-403E-9774-0DC2E9B613A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439434AF-44BD-403E-9774-0DC2E9B613A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68BB451-13C6-4338-B983-433D3B2908DA}
+	EndGlobalSection
+EndGlobal
